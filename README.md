@@ -2,8 +2,5 @@
 
 #simple web application
 Transflower Learning Pvt. Ltd.
-Opensource project maintained by Ravi Tambade
-
-
-
-#from Transflower
+Opensource project maintained by Ravi Tambadeh
+ thid is tying edit
